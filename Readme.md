@@ -1,5 +1,6 @@
 [Windows]
 
+
 1. open terminal and make sure the current directory is the scripts folder
 
 2. run >> pip install -r requirements.txt
